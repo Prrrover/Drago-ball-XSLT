@@ -4,12 +4,21 @@ No es necesario listar las técnicas de los enemigos.
 Estilo: Asegúrate de que el documento HTML resultante esté correctamente estructurado y sea legible. Utiliza elementos semánticos de HTML5 donde sea apropiado.
 
 
-<h1>Personaje </h1>
-<h2> Nombre<h2>
-<p>Raza</p>
-<p>Planeta</p>
-<h3>Técnicas</h3>
-<ul>
-<li> tecnica1</li>
-<li> tecnica2</li>
-</ul>
+&lt;h1&gt;Personaje &lt;/h1&gt;
+
+&lt;h2&gt;Nombre&lt;h2&gt;
+
+&lt;p&gt;Raza&lt;/p&gt;
+
+&lt;p&gt;Planeta&lt;/p&gt;
+
+&lt;h3&gt;Técnicas&lt;/h3&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt; tecnica1&lt;/li&gt;
+
+&lt;li&gt; tecnica2&lt;/li&gt;
+
+&lt;/ul&gt;
+
