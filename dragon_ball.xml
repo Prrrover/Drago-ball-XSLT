@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dragonball>
+    <personajes>
+        <personaje id="1">
+            <nombre>goku</nombre>
+            <raza>saiyajin</raza>
+            <planetaorigen>vegeta</planetaorigen>
+            <tecnicas>
+                <tecnica>kamehameha</tecnica>
+                <tecnica>genki dama</tecnica>
+            </tecnicas>
+        </personaje>
+        <personaje id="2">
+            <nombre>vegeta</nombre>
+            <raza>saiyajin</raza>
+            <planetaorigen>vegeta</planetaorigen>
+            <tecnicas>
+                <tecnica>final flash</tecnica>
+                <tecnica>big bang attack</tecnica>
+            </tecnicas>
+        </personaje>
+        <personaje id="3">
+            <nombre>piccolo</nombre>
+            <raza>namekiano</raza>
+            <planetaorigen>namekusei</planetaorigen>
+            <tecnicas>
+                <tecnica>makankosappo</tecnica>
+            </tecnicas>
+        </personaje>
+    </personajes>
+    <enemigos>
+        <enemigo id="1">
+            <nombre>freezer</nombre>
+            <raza>desconocida</raza>
+            <planetaorigen>desconocido</planetaorigen>
+        </enemigo>
+        <enemigo id="2">
+            <nombre>cell</nombre>
+            <raza>androide</raza>
+            <planetaorigen>tierra</planetaorigen>
+        </enemigo>
+    </enemigos>
+</dragonball>
+
